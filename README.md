@@ -53,10 +53,7 @@ Exemple de corps de la requête :
 {
   "response": "A large language model (LLM) is a machine learning model..."
 }
-![image](https://github.com/user-attachments/assets/ecf4c910-82db-40dd-9de6-bef43021e20f)
-![image](https://github.com/user-attachments/assets/c15f1531-0b61-4d96-9048-80206b5637be)
-![image](https://github.com/user-attachments/assets/1247c7cf-1e14-4dc7-b11e-9dfafc27c9d4)
-![image](https://github.com/user-attachments/assets/5c74ee50-7e73-4b8c-84b5-ee66d4d02def)
+
 
 
 
